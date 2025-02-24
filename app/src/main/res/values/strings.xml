@@ -18,7 +18,7 @@
     <string name="district">District</string>
     <string name="taluka">Taluka</string>
     <string name="state">State</string>
-    <string name="connecting_farmers_amp_buyers"><![CDATA[Connecting Farmers & Buyers]]></string>
+    <string name="tagline"><![CDATA[Connecting Farmers & Buyers]]></string>
 
     <string-array name="user_types">
         <item>Select User Type</item>
@@ -33,5 +33,10 @@
     <string-array name="districts">
         <item>Select District</item>
     </string-array>
+
+    <string name="version_info">Version: 1.0.0</string>
+    <string name="developer_info">Developed by Bhavesh Kulthe &amp; Team</string>
+    <string name="contact_info">Visit our website: https://github.com/Bhavesh486/AgroYard</string>
+    <string name="app_description">Agro-Yard is a cutting-edge agricultural trading platform designed to connect farmers, traders, and markets in a seamless and efficient manner. \n\nOur app offers a range of features to facilitate smooth transactions, including real-time updates on market prices, availability of goods, and agricultural trends. \n\nFarmers can easily find buyers for their produce, while traders and market representatives can access the freshest farm supplies. The platform prioritizes secure transactions to ensure both buyers and sellers are protected, and enables easy communication through in-app messaging and notifications. \n\nWhether you\'re a small-scale farmer or a large agricultural supplier, Agro-Yard ensures that you have all the tools needed to make informed decisions and manage your business efficiently.\n\nWith Agro-Yard, agricultural commerce has never been more accessible and transparent. \n\nJoin us today to be part of the future of farming and trading!</string>
 
 </resources>

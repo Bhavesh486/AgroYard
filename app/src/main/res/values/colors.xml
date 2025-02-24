@@ -1,36 +1,54 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Core Colors -->
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
 
-    <!-- Primary Colors -->
+    <!-- Primary Theme Colors -->
     <color name="colorPrimary">#388E3C</color> <!-- Dark Green (Represents Agriculture) -->
     <color name="colorPrimaryDark">#2E7D32</color> <!-- Darker Green for Status Bars -->
     <color name="colorAccent">#FFC107</color> <!-- Yellow for Highlights (Represents Crops & Sun) -->
 
     <!-- Background & Card Colors -->
     <color name="backgroundLight">#FAFAFA</color> <!-- Light Background for UI Clarity -->
+    <color name="backgroundDark">#121212</color> <!-- Dark Background for Night Mode -->
     <color name="cardBackground">#FFFFFF</color> <!-- White Background for Cards -->
+    <color name="cardBackgroundDark">#1E1E1E</color> <!-- Dark Card Background -->
 
     <!-- Text Colors -->
     <color name="textPrimary">#212121</color> <!-- Dark Gray (For Readability) -->
     <color name="textSecondary">#757575</color> <!-- Lighter Gray for Secondary Text -->
+    <color name="textHint">#9E9E9E</color> <!-- Hint Color for Input Fields -->
+    <color name="textLink">#0288D1</color> <!-- Blue for Clickable Links -->
 
-    <!-- Input Field & Button Colors -->
+    <!-- Button & Input Field Colors -->
     <color name="inputFieldBorder">#BDBDBD</color> <!-- Light Gray for Borders -->
+    <color name="inputFieldBackground">#F5F5F5</color> <!-- Light Gray Background for Input Fields -->
     <color name="buttonText">#FFFFFF</color> <!-- White Text for Buttons -->
+    <color name="buttonDisabled">#B0BEC5</color> <!-- Disabled Button Color -->
+    <color name="buttonRipple">#66BB6A</color> <!-- Light Green Ripple Effect -->
 
     <!-- Error & Success Colors -->
     <color name="errorColor">#D32F2F</color> <!-- Red for Errors -->
     <color name="successColor">#4CAF50</color> <!-- Green for Success Messages -->
+    <color name="warningColor">#FFA726</color> <!-- Orange for Warnings -->
+    <color name="infoColor">#29B6F6</color> <!-- Light Blue for Information Messages -->
 
     <!-- Transparent Overlays -->
     <color name="semiTransparentBlack">#80000000</color> <!-- Semi-Transparent Black -->
+    <color name="semiTransparentWhite">#80FFFFFF</color> <!-- Semi-Transparent White -->
 
-    <!-- New Colors -->
+    <!-- Additional UI Colors -->
+    <color name="dividerColor">#E0E0E0</color> <!-- Light Gray for Dividers -->
+    <color name="shadowColor">#40000000</color> <!-- Light Shadow Effect -->
+    <color name="highlightColor">#FFEB3B</color> <!-- Bright Yellow Highlight -->
+
+    <!-- App-Specific Colors -->
     <color name="appNameColor">#1B5E20</color> <!-- Dark Green for App Name -->
-    <color name="signupTextColor">#2E7D32</color> <!-- Golden Yellow for Signup -->
-    <color name="loginTextColor">#2E7D32</color>
+    <color name="signupTextColor">#2E7D32</color> <!-- Green for Signup -->
+    <color name="loginTextColor">#2E7D32</color> <!-- Green for Login -->
+    <color name="tabSelectedColor">#4CAF50</color> <!-- Selected Tab Color -->
+    <color name="tabUnselectedColor">#BDBDBD</color> <!-- Unselected Tab Color -->
 
 
 </resources>
